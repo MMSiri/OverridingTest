@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32602.291
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OverridingTest", "OverridingTest\OverridingTest.csproj", "{DE4B4972-C9FA-47D0-8FD0-82404FC5A7FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE4B4972-C9FA-47D0-8FD0-82404FC5A7FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE4B4972-C9FA-47D0-8FD0-82404FC5A7FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE4B4972-C9FA-47D0-8FD0-82404FC5A7FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE4B4972-C9FA-47D0-8FD0-82404FC5A7FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DD7F0A4B-DC0F-4672-BDBF-FCFC513E37F9}
+	EndGlobalSection
+EndGlobal
